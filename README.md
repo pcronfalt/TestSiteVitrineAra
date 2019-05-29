@@ -1,1 +1,1 @@
-<img src="favicon.ico" width="50" height="50">
+<img src="/TestSiteVitrineAra/favicon.ico" width="50" height="50">
